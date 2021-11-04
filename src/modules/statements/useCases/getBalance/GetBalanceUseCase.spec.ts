@@ -1,5 +1,3 @@
-// 20211104
-
 import "reflect-metadata";
 import { InMemoryUsersRepository } from "../../../users/repositories/in-memory/InMemoryUsersRepository";
 import { CreateUserUseCase } from "../../../users/useCases/createUser/CreateUserUseCase";
